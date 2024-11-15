@@ -1,0 +1,26 @@
+.colonne1{
+    float:left;
+    width:45%;
+    background-color:#6d071a;
+    color:#fff5e9;
+    padding:15px;
+   
+}
+
+
+
+.colonne2{
+    float:right;
+    width:45%; 
+    background-color:#fff5e9;
+    padding:15px;
+}
+footer {
+    width:100%;
+clear:both;
+}
+h1 {
+    font-weight: bold;
+}
+.titre{font-weight: bolder;
+}
